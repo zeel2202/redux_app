@@ -1,0 +1,10 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const ADD = "ADD"
+export const DELETE = "DELETE"
+export const EDIT = "EDIT"
+export const GETUSEER = "GETUSEER"
+export const ADDUSER = "ADDUSER"
+export const EDITOBJ = "EDITOBJ"
+export const EDITDATA = "EDITDATA"
+
